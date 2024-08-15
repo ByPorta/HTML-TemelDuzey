@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>HTML basliklari</title>
+</head>
+<body>
+    <h1>HTML h1(en büyük)</h1>
+    <h2>HTML h2(bi ufak daha küçük)</h2>
+    <h3>HTML h3(bi ufak daha küçük)</h3>
+    <h4>HTML h4(bi ufak daha küçük)</h4>
+    <h5>HTML h5(bi ufak daha küçük)</h5>
+    <h6>HTML h6(en küçük)</h6>
+</body>
+</html>﻿
