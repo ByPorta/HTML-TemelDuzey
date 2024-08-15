@@ -1,0 +1,73 @@
+  <!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!-- yorum satırı (ünlem+-) -->
+    <h1>KALIN YAZI</h1>
+    <p>
+        <b>kalın yazı 
+        <br /> (b)ile    bold</b>
+    </p>
+   
+    <h2>
+    <i>
+        italik gösterme</h2>
+    </i>
+    <p>
+       <i>
+         eğik gözükmesi için(i)
+       </i>
+    </p>
+   
+    <h2>küçük gösterme</h2>
+    <p>
+        <small>
+            küçük <br />
+            gösteren(small)
+        </small>
+    </p>
+   
+    <h2><ins>
+        
+        altında çizgi
+        </ins>
+    </h2>
+    <p>
+        <ins>
+            altında çizgi olur(ins)
+        </ins>
+    </p>
+   
+    <h3>karakterin altında gösterme</h3>
+    <p>
+ karakterin altında
+        <sub>
+             altında gösterir(sub)
+        </sub>
+    </p>
+   
+    <h3>karakterin üstünde </h3>
+   <p>
+   karakterin
+       <sup>
+           üstünde gösterir
+           <sub>
+               (sup) 
+           </sub>
+    </sup>
+       böyle de normal olur
+    </p>
+   
+    <h2>arka planı renkli yapmak</h2>
+    <p>
+        <mark>
+            arka planı renkli yapacağız
+        </mark>
+        bu hayatta <mark>iremi</mark>severim
+    </p>
+</body>
+</html>
