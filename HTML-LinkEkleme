@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h4>HTML link etiketi </h4>
+    <p>
+        <a href="http://www.instagram.com.tr" target="_blank">yeni sekmede açma  </a>
+        <br />
+        <a href="http://www.instagram.com.tr" target="_parent">yeni sekmede açmayan </a>
+        <br />
+        <a href="http://www.instagram.com.tr" target="_self">yeni sekmede açmayan </a>
+        <!--
+            diğerleri hep aynı sadece blanki bilmek bile yeterli blank harici hepsi aynı
+        -->
+
+
+
+
+
+    </p>
+</body>
+</html>
