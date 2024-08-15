@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <table>
+        
+
+
+            <tr>
+                <th>
+                    adı
+                </th>
+                <th>
+                    soyadı
+                </th>
+                <td>
+                    <b> tc.no </b>
+                </td>
+            </tr>
+        
+        
+        <tr>
+            <td>
+                Hasan
+            </td>
+            <td>
+                Karaca
+            </td>
+            <td>
+                1111111111
+            </td>
+        </tr>
+        <tr>
+            <td>haso maraba </td>
+            <td>karaca</td>
+            <td>1231412412</td>
+
+        </tr>
+   
+    
+    </table>
+</body>
+</html>
